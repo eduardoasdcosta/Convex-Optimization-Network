@@ -1,0 +1,2 @@
+# Convex-Optimization-Network
+The objective of this project is to find the optimal ratio between the flow rates and the flow latency of a network, given its routing matrix and the link’s capacity vector. To do so, both routing matrices and capacity vectors are randomly computer (within certain parameters) in order to simulate a real-world network, with different speeds and variable links. Then, both utility and latency functions are determined, in order to formulate the problem into a convex one.
